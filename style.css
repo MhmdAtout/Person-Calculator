@@ -29,6 +29,7 @@
 .info {
   height: 125px;
   padding: 30px;
+  text-align: center;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
